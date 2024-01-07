@@ -3,7 +3,7 @@
 ## Language Processor
 
 ### Overview
-Provides simple language translation, grammar manipulation, and sentence structure transformation capabilities using Ruby. 
+Provides simple language translation, grammar manipulation, and sentence structure transformation capabilities. 
 It is intended to handle multiple languages and provides a variety of methods to aid in language processing tasks.
 
 
