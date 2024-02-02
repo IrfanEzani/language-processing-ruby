@@ -1,6 +1,6 @@
 
 
-## Language Processor
+## WordWeaver
 
 ### Overview
 Provides simple language translation, grammar manipulation, and sentence structure transformation capabilities. 
